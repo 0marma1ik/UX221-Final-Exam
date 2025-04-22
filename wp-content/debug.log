@@ -1,1 +1,166 @@
 [22-Apr-2025 23:04:08 UTC] PHP Warning:  Undefined array key "host" in /workspaces/UX221-Final-Exam/.wordpress/wp-includes/pluggable.php on line 1640
+[22-Apr-2025 23:29:59 UTC] PHP Fatal error:  Out of memory (allocated 37748736) (tried to allocate 65536 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-admin/includes/ajax-actions.php on line 1463
+[22-Apr-2025 23:29:59 UTC] PHP Fatal error:  Out of memory (allocated 37748736) (tried to allocate 65536 bytes) in Unknown on line 0
+[22-Apr-2025 23:30:09 UTC] PHP Fatal error:  Out of memory (allocated 35651584) (tried to allocate 2097152 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/templates/themes/theme-classic-grid.php on line 139
+[22-Apr-2025 23:30:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[22-Apr-2025 23:30:19 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 2097152 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/templates/themes/theme-classic-grid.php on line 139
+[22-Apr-2025 23:30:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[22-Apr-2025 23:30:20 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/functions/capabilities.php on line 40
+[22-Apr-2025 23:30:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[22-Apr-2025 23:30:29 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/templates/themes/theme-classic-grid.php on line 139
+[22-Apr-2025 23:30:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[22-Apr-2025 23:30:40 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/templates/themes/theme-classic-grid.php on line 139
+[22-Apr-2025 23:30:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[22-Apr-2025 23:30:49 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/templates/themes/theme-classic-grid.php on line 139
+[22-Apr-2025 23:30:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[22-Apr-2025 23:30:59 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/templates/themes/theme-classic-grid.php on line 139
+[22-Apr-2025 23:30:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[22-Apr-2025 23:31:09 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/templates/themes/theme-classic-grid.php on line 139
+[22-Apr-2025 23:31:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[22-Apr-2025 23:31:19 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/templates/themes/theme-classic-grid.php on line 139
+[22-Apr-2025 23:31:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[22-Apr-2025 23:31:20 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/functions/capabilities.php on line 40
+[22-Apr-2025 23:31:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[22-Apr-2025 23:31:29 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/templates/themes/theme-classic-grid.php on line 139
+[22-Apr-2025 23:31:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[22-Apr-2025 23:31:39 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/templates/themes/theme-classic-grid.php on line 139
+[22-Apr-2025 23:31:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[22-Apr-2025 23:31:49 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/templates/themes/theme-classic-grid.php on line 139
+[22-Apr-2025 23:31:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[22-Apr-2025 23:31:50 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/functions/capabilities.php on line 40
+[22-Apr-2025 23:31:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[22-Apr-2025 23:31:53 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/functions/capabilities.php on line 40
+[22-Apr-2025 23:31:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[22-Apr-2025 23:32:00 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/templates/themes/theme-classic-grid.php on line 139
+[22-Apr-2025 23:32:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[22-Apr-2025 23:32:09 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/functions/capabilities.php on line 40
+[22-Apr-2025 23:32:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[22-Apr-2025 23:32:10 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/templates/themes/theme-classic-grid.php on line 139
+[22-Apr-2025 23:32:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[22-Apr-2025 23:32:12 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/templates/themes/theme-classic-grid.php on line 177
+[22-Apr-2025 23:32:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[22-Apr-2025 23:32:15 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/theme-product_adder_support.php on line 336
+[22-Apr-2025 23:32:15 UTC] PHP Fatal error:  Uncaught Error: Class "ic_catalog_notices" not found in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/general.php:600
+Stack trace:
+#0 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/general.php(687): get_multiple_settings()
+#1 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(126): get_integration_type()
+#2 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(99): IC_EPC_Tracking->get_integration_type()
+#3 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#4 /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#5 [internal function]: IC_EPC_Tracking->fatal()
+#6 {main}
+  thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/general.php on line 600
