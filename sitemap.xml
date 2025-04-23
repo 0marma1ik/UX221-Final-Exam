@@ -7,6 +7,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/ramadan-countdown-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/islamic-prayer-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -22,12 +32,22 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/products/eid-fun-kit/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/eid-fun-kit/
+            http://localhost:8000/products/ramadan-countdown-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/islamic-prayer-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/islamic-colouring-kit/
         </loc>
     </url>
     <url>
