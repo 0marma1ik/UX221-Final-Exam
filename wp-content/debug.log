@@ -340,3 +340,4 @@ Stack trace:
 #5 [internal function]: IC_EPC_Tracking->fatal()
 #6 {main}
   thrown in /workspaces/UX221-Final-Exam/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/general.php on line 600
+[23-Apr-2025 00:44:31 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221-Final-Exam/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
